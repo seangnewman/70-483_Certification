@@ -15,7 +15,7 @@ namespace _1_45_Task_Timout
                 Thread.Sleep(10000);
             });
 
-            int index = Task.WaitAny( new[] { longRunning }, 1000);
+            int index = Task.WaitAny( new[] { longRunning }, 10000);
 
             if(index == -1)
             {

@@ -13,12 +13,12 @@ namespace _1_35_AccessingSharedData
             int n = 0;
 
             var up = Task.Run(() => {
-                for(int i=0; i < 1000000; i++)
+                for(int i=0; i < 100000000; i++)
                 {
                     n++;
                 }
 
-                for (int i = 0; i < 1000000; i++)
+                for (int i = 0; i < 100000000; i++)
                 {
                     n--;
                 }
