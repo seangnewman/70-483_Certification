@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3AAC5717-1AA9-44DC-B157-1B443403FC9C}</ProjectGuid>
+    <ProjectGuid>{62DFE28B-BC51-4712-A341-AFC80DB6AA47}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chap12_Symmetric_Encription</RootNamespace>
-    <AssemblyName>Chap12_Symmetric_Encription</AssemblyName>
+    <RootNamespace>_4_4_Access_Control</RootNamespace>
+    <AssemblyName>4_4_Access_Control</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,7 +44,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Symmetric.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

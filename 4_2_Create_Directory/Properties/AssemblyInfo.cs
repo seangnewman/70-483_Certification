@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Chap12_Symmetric_Encription")]
+[assembly: AssemblyTitle("4_2_Create_Directory")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Chap12_Symmetric_Encription")]
+[assembly: AssemblyProduct("4_2_Create_Directory")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3aac5717-1aa9-44dc-b157-1b443403fc9c")]
+[assembly: Guid("25902727-d016-4640-9ce5-ed401e4b899f")]
 
 // Version information for an assembly consists of the following four values:
 //
